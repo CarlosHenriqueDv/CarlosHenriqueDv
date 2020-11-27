@@ -3,7 +3,8 @@
 
 - 🔭 Atualmente trabalho com Java Web na empresa Equilibrium Web(http://www.equilibriumweb.com/2015/)
 
-- 🌱 Aprendendo **Spring-boot e VueJS**
+- 🌱 Aprendendo **Docker**
+- Aperfeiçoando **Spring Boot**
 
 - 📫 Como entrar em contato comigo **cshenrique02@gmail.com**
 
