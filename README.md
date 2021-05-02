@@ -29,5 +29,17 @@
   <a href="https://heroku.com" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img
+    src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
+    width="40" height="40" /> 
+  </a> 
+
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"  width="40" height="40" /> 
+  </a> 
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"  alt="javascript" width="40" height="40" /> 
+  </a> 
 
 </p>
