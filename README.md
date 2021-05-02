@@ -41,5 +41,8 @@
    <a href="https://www.mysql.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" /> 
    </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"  alt="javascript" width="40" height="40" /> 
+  </a> 
 
 </p>
