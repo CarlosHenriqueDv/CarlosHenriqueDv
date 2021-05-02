@@ -15,3 +15,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" /> 
+  </a> 
+
+</p>
