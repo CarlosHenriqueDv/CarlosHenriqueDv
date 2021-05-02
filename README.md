@@ -25,8 +25,7 @@
    
   <a href="https://www.oracle.com/br/index.html" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="spring" width="40" height="40" />
-   
-  
+     
   <a href="https://getbootstrap.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" /> 
   </a>          
