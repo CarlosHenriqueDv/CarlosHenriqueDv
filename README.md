@@ -16,6 +16,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <a href="https://www.java.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"  width="40" height="40" /> 
+  </a> 
+  
   <a href="https://getbootstrap.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" /> 
   </a> 
@@ -34,9 +38,6 @@
     width="40" height="40" /> 
   </a> 
 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"  width="40" height="40" /> 
-  </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"  alt="javascript" width="40" height="40" /> 
