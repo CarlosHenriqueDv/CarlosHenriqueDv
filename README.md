@@ -30,8 +30,8 @@
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" /> 
   </a>  
   
-  <a href="https://heroku.com" target="_blank"> <img
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+  <a href="https://heroku.com" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a> 
 
 </p>
