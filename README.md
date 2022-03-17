@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Carlos Henrique</h1>
 <h3 align="center">Desenvolvedor Java</h3>
 
-- 🔭 Atualmente trabalho com Java Web na empresa Equilibrium Web(http://www.equilibriumweb.com/2015/)
+- 🔭 Atualmente trabalho como desenvolvedor Java Web na empresa Equilibrium Web(http://www.equilibriumweb.com/2015/)
 
 - 🌱 Aprendendo **Docker**
 - Aperfeiçoando **Spring Boot**
