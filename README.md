@@ -3,8 +3,9 @@
 
 - 🔭 Atualmente trabalho como desenvolvedor Java Web na empresa Equilibrium Web(http://www.equilibriumweb.com/2015/)
 
-- 🌱 Aprendendo **Docker**
-- Aperfeiçoando **Spring Boot**
+<!--- 🌱 Aprendendo **Docker**-->
+ 
+<!--- Aperfeiçoando **Spring Boot**-->
 
 - 📫 Como entrar em contato comigo **cshenrique02@gmail.com**
 
@@ -46,6 +47,10 @@
   </a> 
   <a href="https://nodejs.org" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /> 
-  </a>   
+  </a>  
+   <a href="[https://nodejs.org](https://www.docker.com/)" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" /> 
+   </a>
+  
 
 </p>
