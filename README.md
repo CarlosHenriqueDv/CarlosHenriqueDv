@@ -71,7 +71,7 @@
 
 ## Sobre mim 
 
-   * Bacharel em Ciências da Computação, atuando como Desenvolvedor Back-End apaixonado por Java e na resolução de problemas baixa e alta complexidade focando sempre entregar soluções simpes e eficazes.
+   * Bacharel em Ciências da Computação, atuando como Desenvolvedor Back-End apaixonado por Java e na resolução de problemas de baixa e alta complexidade focando sempre entregar soluções simples e eficazes.
    * Meu objetivo é me tornar um excelente desenvolvedor Back-End, dessa forma, mantenho o aprendizado contínuo através de especializações, cursos online, novos projetos e repositórios! para me especializar cada vez mais com as tecnologias que já atuo e novas.
 
 ## Experiências 🚀
