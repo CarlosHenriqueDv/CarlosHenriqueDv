@@ -87,7 +87,7 @@
 * Arquitetura REST e de microsserviços
 * Arquitetura MVC
 * Extração, transformação e visualização de dados
-* Grande conhecimento e experiência em SQL e PLSQL
+* Sólido conhecimento e experiência em SQL e PLSQL
 
 ## Principais Tecnologias ⚡
 * Java 8, 11 e 13
