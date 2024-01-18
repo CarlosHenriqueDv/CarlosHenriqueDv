@@ -79,7 +79,7 @@
 
 * Atualmente, atuo como Desenvolvedor Back-End na empresa Equilibrium Web, atuando com tecnologias como Java 8 e 16, microsserviços, API REST, Spring Boot, Docker, Docker-compose, Oracle, Redis, RabbitMQ, JWT, Testes Unitários com JUnit5, bem como aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Builder e princípios de SOLID.
 
-* Atuei como Desenvolvedor Back-End na empresa Atenta Tecnologia, atuando com Java 8, Spring Framework(MVC), banco de dados Oracle/PostegreSQL  
+* Atuei como Desenvolvedor Back-End na empresa Atenta Tecnologia, utilizando com Java 8, Spring Framework(MVC), banco de dados Oracle/PostegreSQL  
 
 ## Principais habilidades 🧠
 * Desenvolvimento Back-End
