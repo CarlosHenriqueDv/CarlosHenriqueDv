@@ -88,9 +88,11 @@
 * Arquitetura MVC
 * Extração, transformação e visualização de dados
 * Sólido conhecimento e experiência em SQL e PLSQL
+* Liderança técnica
+* Facilidade de comunicação com a equipe e clientes.
 
 ## Principais Tecnologias ⚡
-* Java 8, 11 e 13
+* Java 8, 11 e 16
 * Autenticação e autorização com OAuth2.0 e JWT
 * Docker
 * Docker-compose
