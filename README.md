@@ -84,8 +84,9 @@
 ## Principais habilidades 🧠
 * Desenvolvimento Back-End
 * Criação de API REST
-* Arquitetura REST e de microsserviços
-* Arquitetura MVC
+* Padrão REST
+* Arquitetura MVC e de Microsserviços
+* RabiitMQ
 * Extração, transformação e visualização de dados
 * Sólido conhecimento e experiência em SQL e PLSQL
 * Liderança técnica
