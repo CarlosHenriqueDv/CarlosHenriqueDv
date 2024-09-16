@@ -102,7 +102,7 @@
 
 ## Principais bibliotecas :closed_book:
 * Lombok (Java)
-* Spring Data JPA
+* Spring Data JPA + Hibernate
 * Spring Security
 * Spring Cloud
 * Spring Batch
